@@ -1,4 +1,4 @@
-How to run the Purple Blood - Band and Orceshtra  
+# How to run the Purple Blood - Band and Orceshtra  
 
 1. Download the zip file
 
@@ -17,7 +17,9 @@ How to run the Purple Blood - Band and Orceshtra
 Username: hemu@gmail.com
 Password: 123456
 
-OUTPUT :- 
+# OUTPUT :- 
+
+![index](https://user-images.githubusercontent.com/17005167/102334001-302f4700-3fb4-11eb-9577-01bfecbb8fb8.png)
 
 
 
