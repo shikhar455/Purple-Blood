@@ -267,8 +267,6 @@ include 'head.php';
                             <div class="col-md-4">
                                 <div class="form-group profile-header-container">
                                     <div class="profile-header-img">
-                                        <div class=""><img class="img img-thumbnail" src="" alt="your image" />
-                                        </div>
                                         <label for="" class="btn purple btn-file mt-2">
                                    Browse Your Image... <input type='file' id="upload" name="image" onchange="readURL(this)"  />
                                     </label>
